@@ -1,4 +1,4 @@
-﻿WEBVTT
+WEBVTT
 
 1
 00:00:05.510 --> 00:00:07.400
@@ -227,11 +227,11 @@ Ah, j’arrive tout de suite !
 
 51
 00:02:39.240 --> 00:02:41.160
-{\i1}Yeah !{\i0}
+<i>Yeah !<i>
 
 52
 00:02:41.820 --> 00:02:44.370
-{\i1}Welcome !{\i0}
+<i>Welcome !<i>
 
 53
 00:04:27.970 --> 00:04:29.970
@@ -444,7 +444,7 @@ Désolée de l’attente…
 
 101
 00:07:13.510 --> 00:07:15.970
-Dis, tu me joues {\i1}Les Munions{\i0}
+Dis, tu me joues <i>Les Munions<i>
 à la guitare ?
 
 102

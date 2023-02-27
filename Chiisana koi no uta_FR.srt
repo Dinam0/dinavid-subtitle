@@ -966,7 +966,7 @@ Viens !
 
 233
 00:17:53,790 --> 00:17:58,870
-<i>Alors ne pleure pas, ma chérie.</i>
+<i>Alors ne pleure pas, mon amour.</i>
 
 234
 00:17:58,960 --> 00:18:04,510
@@ -5187,7 +5187,7 @@ qui ne fait que changer.</i>
 
 1252
 01:56:45,340 --> 01:56:50,340
-<i>Alors ne pleure pas, ma chérie.</i>
+<i>Alors ne pleure pas, mon amour.</i>
 
 1253
 01:56:50,800 --> 01:56:56,060

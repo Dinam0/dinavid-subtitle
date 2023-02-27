@@ -954,7 +954,8 @@ Viens !
 
 230
 00:17:38,190 --> 00:17:42,940
-<i>Je dérive dans un monde qui ne fait que changer.</i>
+<i>Je dérive dans un monde 
+qui ne fait que changer.</i>
 
 231
 00:17:43,480 --> 00:17:48,200
@@ -2126,7 +2127,8 @@ Shinji est mort !
 
 514
 00:48:33,670 --> 00:48:37,090
-Si tu ne chantes pas pour lui, personne le fera !
+Si tu ne chantes pas pour lui, 
+personne le fera !
 
 515
 00:48:40,510 --> 00:48:42,510
@@ -2256,7 +2258,8 @@ C'est incroyable !
 
 546
 00:51:48,780 --> 00:51:57,120
-<i>reçoive cette chanson d'amour...</i>
+<i>reçoives cette chanson d'amour
+retentissante...</i>
 
 547
 00:52:14,640 --> 00:52:16,100
@@ -2494,11 +2497,13 @@ Attends !
 
 605
 00:56:28,600 --> 00:56:30,810
-<i>Une enquête sur un  délit de fuite fais polémique.</i>
+<i>Une enquête sur un 
+délit de fuite fais polémique.</i>
 
 606
 00:56:31,850 --> 00:56:35,770
-<i>Des citoyens manifestent près une base américaine.</i>
+<i>Des citoyens manifestent 
+près une base américaine.</i>
 
 607
 00:56:38,860 --> 00:56:40,190
@@ -2904,7 +2909,8 @@ Partez ! Pas de base !
 
 703
 01:04:00,470 --> 01:04:03,300
-<i>Une foule en colère s'est rassemblée</i>
+<i>Une foule en colère 
+s'est rassemblée</i>
 
 704
 01:04:03,430 --> 01:04:05,640
@@ -2924,7 +2930,8 @@ Partez ! Pas de base !
 
 708
 01:04:14,690 --> 01:04:16,900
-<i>Des manifestants ont affronté la police</i>
+<i>Des manifestants 
+ont affronté la police</i>
 
 709
 01:04:16,980 --> 01:04:20,070
@@ -3275,7 +3282,8 @@ Ils font quoi la police japonaise.
 
 793
 01:11:25,500 --> 01:11:27,788
-Je sais pas mais ils devraient enlever les restrictions
+Je sais pas mais ils devraient 
+enlever les restrictions
 
 794
 01:11:27,960 --> 01:11:29,420
@@ -4165,7 +4173,8 @@ qui ne font que s'accumuler.</i>
 
 1006
 01:27:15,009 --> 01:27:21,058
-<i>reçoives cette chanson d'amour...</i>
+<i>reçoives cette chanson d'amour
+retentissante...</i>
 
 1007
 01:27:21,370 --> 01:27:25,910
@@ -4261,7 +4270,8 @@ qui ne font que s'accumuler.</i>
 
 1030
 01:28:45,030 --> 01:28:51,206
-<i>reçoives cette chanson d'amour...</i>
+<i>reçoives cette chanson d'amour
+retentissante...</i>
 
 1031
 01:28:51,210 --> 01:28:55,960
@@ -4309,7 +4319,8 @@ qui ne font que s'accumuler.</i>
 
 1042
 01:29:50,220 --> 01:29:56,355
-<i>reçoives cette chanson d'amour...</i>
+<i>reçoives cette chanson d'amour
+retentissante...</i>
 
 1043
 01:29:56,355 --> 01:30:00,530
@@ -4325,7 +4336,8 @@ qui ne font que s'accumuler.</i>
 
 1046
 01:30:11,040 --> 01:30:17,084
-<i>reçoives cette chanson d'amour...</i>
+<i>reçoives cette chanson d'amour
+retentissante...</i>
 
 1047
 01:30:17,330 --> 01:30:21,960
@@ -5096,11 +5108,11 @@ cherchant la paix. </i>
 
 1230
 01:52:29,410 --> 01:52:33,880
-<i>Pour toujours et à jamais</i>
+<i>Pour toujours et à jamais.</i>
 
 1231
 01:52:34,170 --> 01:52:38,380
-<i>N'oublie jamais cette chanson.</i>
+<i>N'oublie jamais cette chanson</i>
 
 1232
 01:52:38,470 --> 01:52:41,180
@@ -5179,7 +5191,8 @@ qui ne fait que changer.</i>
 
 1250
 01:56:35,200 --> 01:56:40,120
-<i>Mais il y a une chose qui ne changera pas.</i>
+<i>Mais il y a une chose 
+qui ne changera pas.</i>
 
 1251
 01:56:40,540 --> 01:56:45,250
@@ -5333,4 +5346,249 @@ de MONGOL800
 01:59:21,030 --> 01:59:25,710
 <i>Petite chanson d'amour (Little Love Song)</i>
 Traduction : Dinamo
+
+1288
+01:59:36,174 --> 01:59:40,639
+<i>Dans un coin de l'éspace,
+une planète parmis t'en d'autres.</i>
+
+1289
+01:59:40,639 --> 01:59:44,935
+<i>Sur une terre bleu resplendissante.</i>
+
+1290
+01:59:44,935 --> 01:59:47,229
+<i>Ce petit sentiment amoureux</i>
+
+1291
+01:59:47,229 --> 01:59:53,902
+<i>te parvenant sur une petite île.</i>
+
+1292
+01:59:55,153 --> 01:59:59,408
+<i>Le temps a passé depuis notre rencontre</i>
+
+1293
+01:59:59,408 --> 02:00:03,704
+<i>et des lettres avec mes sentiments
+qui ne font que s'accumuler.</i>
+
+1294
+02:00:03,704 --> 02:00:08,000
+<i>Après tout, nous sommes attirés l'un vers l'autre</i>
+
+1295
+02:00:08,000 --> 02:00:12,462
+<i>dans les moments tristes et heureux.</i>
+
+1296
+02:00:12,462 --> 02:00:16,675
+<i>Des échos résonnant au loin, tout au loin.</i>
+
+1297
+02:00:16,675 --> 02:00:18,677
+<i>Une douce chanson</i>
+
+1298
+02:00:18,677 --> 02:00:24,099
+<i>qui changera le monde.</i>
+
+1299
+02:00:24,349 --> 02:00:25,392
+<i>Regarde !</i>
+
+1300
+02:00:25,392 --> 02:00:29,855
+<i>La personne qui t'est chère</i>
+
+1301
+02:00:29,855 --> 02:00:32,691
+<i>est près de toi !</i>
+
+1302
+02:00:32,691 --> 02:00:36,111
+<i>Je veux que toi seule</i>
+
+1303
+02:00:36,111 --> 02:00:41,116
+<i>reçoives cette chanson d'amour 
+retentissante...</i>
+
+1304
+02:00:41,116 --> 02:00:45,412
+<i>Écoute !</i>
+
+1305
+02:00:45,412 --> 02:00:49,541
+<i>Écoute !</i>
+
+1306
+02:00:49,541 --> 02:00:54,213
+<i>Écoute !</i>
+
+1307
+02:00:54,213 --> 02:00:56,507
+<i>Cette chanson d'amour retentissante !</i>
+
+1308
+02:00:56,507 --> 02:00:58,091
+<i>Tu as sûrement remarqué</i>
+
+1309
+02:00:58,091 --> 02:01:00,177
+<i>que lorsque nous marchons</i>
+
+1310
+02:01:00,177 --> 02:01:02,095
+<i>même dans les chemins les plus sombres,</i>
+
+1311
+02:01:02,095 --> 02:01:04,139
+<i>la lune brillera toujours.</i>
+
+1312
+02:01:04,348 --> 02:01:06,183
+<i>Je ne lacherai jamais ta main.</i>
+
+1313
+02:01:06,183 --> 02:01:10,270
+<i>Et au plus profond de mes sentiments</i>
+
+1314
+02:01:10,270 --> 02:01:12,314
+<i>nous seront éternels.</i>
+
+1315
+02:01:12,314 --> 02:01:14,358
+<i>Même au fond de l'éternité</i>
+
+1316
+02:01:14,358 --> 02:01:16,443
+<i>Je suis sûr</i>
+
+1317
+02:01:16,443 --> 02:01:18,403
+<i>que je dirai</i>
+
+1318
+02:01:18,403 --> 02:01:20,531
+<i>les mêmes mots.</i>
+
+1319
+02:01:20,531 --> 02:01:22,783
+<i>Mais ce n'était pas suffisant</i>
+
+1320
+02:01:22,783 --> 02:01:26,828
+<i> et chaque larme devenant de la joie</i>
+
+1321
+02:01:26,828 --> 02:01:28,956
+<i>et de manière indescriptible.</i>
+
+1322
+02:01:28,956 --> 02:01:31,166
+<i>Je te tiens dans mes bras.</i>
+
+1323
+02:01:31,166 --> 02:01:36,171
+<i>Je te tiens dans mes bras.</i>
+
+1324
+02:01:36,171 --> 02:01:41,635
+<i>Regarde ! La personne qui t'est chère</i>
+
+1325
+02:01:41,635 --> 02:01:44,471
+<i>est près de toi !</i>
+
+1326
+02:01:44,471 --> 02:01:47,766
+<i>Je veux que toi seule</i>
+
+1327
+02:01:47,766 --> 02:01:52,688
+<i>reçoives cette chanson d'amour 
+retentissante...</i>
+
+1328
+02:01:52,688 --> 02:01:56,733
+<i>Écoute !</i>
+
+1329
+02:01:56,733 --> 02:02:00,946
+<i>Écoute !</i>
+
+1330
+02:02:00,946 --> 02:02:05,576
+<i>Écoute !</i>
+
+1331
+02:02:05,576 --> 02:02:10,038
+<i>Cette chanson d'amour retentissante !</i>
+
+1332
+02:02:11,373 --> 02:02:14,626
+<i>Si c'est un rêve, ne me réveillez pas.</i>
+
+1333
+02:02:14,626 --> 02:02:18,630
+<i>Si c'est un rêve, ne me réveillez pas.</i>
+
+1334
+02:02:18,630 --> 02:02:25,137
+<i>Chaque moment passé avec toi</i>
+
+1335
+02:02:25,137 --> 02:02:27,222
+<i>sera une étoile éternelle.</i>
+
+1336
+02:02:27,222 --> 02:02:32,644
+<i>Regarde ! La personne qui t'est chère</i>
+
+1337
+02:02:32,644 --> 02:02:35,314
+<i>est près de toi !</i>
+
+1338
+02:02:35,314 --> 02:02:38,400
+<i>Je veux que toi seule</i>
+
+1339
+02:02:38,400 --> 02:02:43,280
+<i>reçoives cette chanson d'amour...</i>
+
+1340
+02:02:43,280 --> 02:02:48,493
+<i>Regarde ! La personne qui t'est chère</i>
+
+1341
+02:02:48,493 --> 02:02:51,288
+<i>est près de toi !</i>
+
+1342
+02:02:51,288 --> 02:02:54,291
+<i>Je veux que toi seule</i>
+
+1343
+02:02:54,291 --> 02:02:59,421
+<i>reçoives cette chanson d'amour 
+retentissante...</i>
+
+1344
+02:02:59,421 --> 02:03:03,050
+<i>Écoute !</i>
+
+1345
+02:03:03,050 --> 02:03:07,262
+<i>Écoute !</i>
+
+1346
+02:03:07,262 --> 02:03:11,558
+<i>Écoute !</i>
+
+1347
+02:03:11,558 --> 02:03:14,228
+<i>Cette chanson d'amour retentissante !</i>
 

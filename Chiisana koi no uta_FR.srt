@@ -3983,8 +3983,7 @@ je peux faire pour vous.
 
 960
 01:22:57,600 --> 01:22:59,190
-Je ne prendrai plus aucune responsabilité
-à partir de maintenant.
+C'est à vous de gérer maintenant.
 
 961
 01:23:00,110 --> 01:23:01,650

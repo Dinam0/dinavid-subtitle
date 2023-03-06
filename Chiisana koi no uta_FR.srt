@@ -4107,7 +4107,7 @@ une planète parmis t'en d'autres.</i>
 
 990
 01:26:08,210 --> 01:26:13,340
-<i>Sur une terre bleu resplendissante.</i>
+<i>Sur une terre bleue resplendissante.</i>
 
 991
 01:26:13,420 --> 01:26:18,510
@@ -5352,7 +5352,7 @@ une planète parmis t'en d'autres.</i>
 
 1289
 01:59:40,639 --> 01:59:44,935
-<i>Sur une terre bleu resplendissante.</i>
+<i>Sur une terre bleue resplendissante.</i>
 
 1290
 01:59:44,935 --> 01:59:47,229

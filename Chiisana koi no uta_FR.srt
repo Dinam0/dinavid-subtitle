@@ -3822,7 +3822,7 @@ de personnes demandant si nous jouons.
 
 922
 01:20:26,200 --> 01:20:28,580
-Ça a énervé les professeurs ?
+Ça a énervé les professeurs.
 
 923
 01:20:28,910 --> 01:20:30,460

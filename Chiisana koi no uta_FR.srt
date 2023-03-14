@@ -2472,7 +2472,8 @@ Tu gères !
 
 599
 00:55:20,740 --> 00:55:22,990
-Tu racontes quoi ? C'est la sœur de Shinji.
+Tu racontes quoi ? 
+C'est la sœur de Shinji.
 
 600
 00:55:27,290 --> 00:55:29,160
